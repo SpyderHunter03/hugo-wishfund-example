@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://wishfund.tristangoetz.me"
+baseURL = "https://wishfund.tristangoetz.me"
 languageCode = "en-us"
 title = "WishFund hugo | Nonprofit Charity Funderising Theme"
 theme = "wishfund-hugo"
